@@ -1,185 +1,494 @@
-<!-- =====================================================
-  GITHUB PROFILE README
-  Beddel links-ka (Twitter, LinkedIn, Gmail, iwm.)
-  ===================================================== -->
+<!-- =========================================================
+     HUSSEIN MOHAMUD | GITHUB PROFILE README
+     Ultimate Professional Developer Profile
+     GitHub: inamahamud693-code
+========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f2027,50:203a43,100:2c5364&text=Hussein%20Mohamud&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20IT%20Specialist&descSize=20&descAlignY=60&descColor=9ad1ff" alt="Hussein Mohamud - Full Stack Developer | IT Specialist" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=HUSSEIN%20MOHAMUD&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20ICT%20Student%20%7C%20AI%20Enthusiast&descSize=17&descAlignY=60&descColor=9ad1ff" />
 
-<!-- Typing animation (sidii hore) -->
 <a href="https://github.com/inamahamud693-code">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hussein+Mohamud+%F0%9F%91%8B;Full+Stack+Developer;IT+%26+Cloud+Enthusiast;Learning+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Hussein+Mohamud+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;ICT+Student+%F0%9F%8E%93;Full+Stack+Development+%F0%9F%8C%90;Artificial+Intelligence+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning.+Always+Building." alt="Typing Animation" />
 </a>
+
+<br/>
+
+<a href="https://github.com/inamahamud693-code">
+<img src="https://img.shields.io/badge/GitHub-inamahamud693--code-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://github.com/inamahamud693-code?tab=followers">
+<img src="https://img.shields.io/github/followers/inamahamud693-code?style=for-the-badge&logo=github&label=Followers&color=238636" />
+</a>
+<a href="https://github.com/inamahamud693-code?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0e75b6?style=for-the-badge&logo=github" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=inamahamud693-code&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<a href="https://github.com/inamahamud693-code"><img src="https://img.shields.io/badge/GitHub-inamahamud693--code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/inamahamud693-code?tab=followers"><img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" /></a>
-<img src="https://img.shields.io/badge/Location-Somalia-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Somalia" />
+<img src="https://img.shields.io/badge/Location-Somalia%20%F0%9F%87%B8%F0%9F%87%B4-0e75b6?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Software%20Engineering-blueviolet?style=flat-square" />
+<img src="https://img.shields.io/badge/Passion-Innovation-orange?style=flat-square" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
-```js
-const me = {
-  name: "Hussein Mohamud",
-  role: "Full Stack Developer & IT Specialist",
-  location: "Somalia 🇸🇴",
+### Hello, World! 👋
 
-  building: [
-    "Modern Web Applications",
-    "Full Stack Projects",
-    "Responsive UI (YouTube Clone & more)"
-  ],
+I'm **Hussein Mohamud**, an ICT student, software developer, and technology enthusiast passionate about creating innovative digital solutions.
 
-  learning: [
-    "Cybersecurity",
-    "Cloud Architecture (AWS / Azure)",
-    "DevOps & Docker",
-    "System Design"
-  ],
+I enjoy transforming ideas into real-world applications, exploring new technologies, and continuously improving my software engineering skills.
 
-  languages: ["Somali", "English"],
+- 🎓 ICT Student – Information & Communication Technology
+- 💻 Software Development & Programming
+- 🌐 Frontend & Backend Web Development
+- 🗄️ Database Design & Management
+- 🤖 Artificial Intelligence & AI Agents
+- 🐧 Linux, Networking & Cybersecurity
+- 🚀 Robotics, Automation & Emerging Technologies
+- 🌱 Lifelong Learner & Problem Solver
 
-  tech: {
-    frontend: ["HTML", "CSS", "JavaScript", "React", "Tailwind"],
-    backend:  ["Node.js", "Express", "Python"],
-    database: ["MySQL", "SQL Server", "MongoDB"]
-  },
-
-  funFact: "I turn coffee into code ☕ → 💻"
-};
-```
+**My Mission:** Build meaningful technology, solve real-world problems, and become an exceptional software engineer.
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=600&h=900&q=80" width="100%" alt="coding setup" />
+<img width="100%" src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=700&q=85" alt="Developer Workspace" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Think-Build-Innovate-00D9FF?style=for-the-badge" />
 
 </td>
 </tr>
 </table>
 
-> 💬 *"First, solve the problem. Then, write the code."* — **John Johnson**
+> "First, solve the problem. Then, write the code."
 
 ---
 
-## 📬 Connect With Me
+## 🧠 My Developer Profile
+
+```javascript
+const hussein = {
+    name: "Hussein Mohamud",
+    username: "inamahamud693-code",
+    location: "Somalia 🇸🇴",
+    education: "Information & Communication Technology",
+
+    identity: [
+        "Software Developer",
+        "ICT Student",
+        "Technology Enthusiast"
+    ],
+
+    development: [
+        "Web Applications",
+        "Desktop Applications",
+        "Backend Development",
+        "Database Systems"
+    ],
+
+    interests: [
+        "Artificial Intelligence",
+        "AI Agents",
+        "Cybersecurity",
+        "Linux & Networking",
+        "Robotics & Automation",
+        "Cloud Computing"
+    ],
+
+    currentlyLearning: [
+        "Python",
+        "Advanced JavaScript",
+        "Software Engineering",
+        "Linux Administration",
+        "Artificial Intelligence"
+    ],
+
+    philosophy: "Learn. Build. Improve. Repeat."
+};
+```
+
+---
+
+## 🛠️ Technical Skills & Technology Stack
+
+### 💻 Programming Languages
 
 <div align="center">
 
-<a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-<a href="https://wa.me/YOUR_NUMBER"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<img src="https://skillicons.dev/icons?i=cs,js,python,html,css&theme=dark" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
 </div>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap&perline=8" alt="frontend" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,mysql,postgres,mongodb,firebase&perline=8" alt="backend and database" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,gcp,linux,bash,git&perline=8" alt="cloud and devops" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,githubactions,vscode,figma,postman,npm,vercel,terraform&perline=8" alt="tools" />
-</p>
+### 🎨 Frontend Development
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-<img src="https://img.shields.io/badge/SSMS-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SSMS" />
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logo=fastapi&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
 </div>
 
----
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Web Design
+- DOM Manipulation
+- Interactive User Interfaces
 
-## 📊 GitHub Dashboard
+### ⚙️ Backend Development
 
 <div align="center">
 
-<a href="https://github.com/inamahamud693-code?tab=repositories"><img src="https://img.shields.io/badge/Repositories-View%20All-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-<a href="https://github.com/inamahamud693-code?tab=stars"><img src="https://img.shields.io/badge/Starred-Repos-e3b341?style=for-the-badge&logo=github&logoColor=white" alt="Stars" /></a>
-<a href="https://github.com/inamahamud693-code?tab=followers"><img src="https://img.shields.io/github/followers/inamahamud693-code?label=Followers&style=for-the-badge&logo=github&color=238636" alt="Followers" /></a>
-<a href="https://github.com/inamahamud693-code?tab=following"><img src="https://img.shields.io/badge/Following-View-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="Following" /></a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet&theme=dark" />
+
+</div>
+
+- Node.js
+- Express.js
+- C# / .NET
+- REST APIs
+- Backend Logic
+- Server-Side Development
+
+### 🗄️ Databases & Data Management
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
 
 <br/><br/>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamahamud693-code&layout=pie&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages Pie Chart" />
-  <img src="https://github-readme-stats.vercel.app/api?username=inamahamud693-code&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="48%" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inamahamud693-code&theme=tokyonight" width="97%" alt="GitHub Streak Stats" />
-</p>
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 
 </div>
 
----
+- Microsoft SQL Server
+- SQL Server Management Studio
+- MySQL
+- Database Design
+- SQL Queries
+- Relational Databases
+- CRUD Operations
 
-## 🏆 Highlights
+### 🧰 Development Tools & Platforms
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-0e75b6?style=for-the-badge" alt="role" />
-<img src="https://img.shields.io/badge/Field-IT%20Specialist-238636?style=for-the-badge" alt="field" />
-<img src="https://img.shields.io/badge/Learning-Cybersecurity-red?style=for-the-badge" alt="learning cybersecurity" />
-<img src="https://img.shields.io/badge/Learning-Cloud%20%26%20DevOps-orange?style=for-the-badge" alt="learning cloud" />
-<img src="https://img.shields.io/badge/Open%20to-Collaboration-8957e5?style=for-the-badge" alt="collaboration" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,postman,figma&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Cursor-AI%20Editor-111111?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 
 </div>
 
----
-
-## 🔭 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| 🎬 **YouTube Clone** | Modern YouTube homepage with header, sidebar and a responsive video grid | `HTML` `CSS` |
-| 🗄️ **Database Management System** | Relational database design with tables, joins, queries and stored procedures | `SQL Server` `SSMS` `T-SQL` |
-| 🛡️ **Cybersecurity Home Lab** | Practice lab for network traffic analysis, Linux and security fundamentals | `Kali Linux` `Wireshark` `Linux` |
-| 🌐 **Personal Portfolio Website** | Responsive portfolio to showcase my projects, skills and contact info | `HTML` `CSS` `JavaScript` |
-
----
-
-## 🌱 Currently
-
-- 🔭 Working on **Full Stack projects**
-- 📚 Learning **Cybersecurity** and **Cloud Architecture**
-- 🤝 Open to **collaboration** and **open-source** contributions
-- 💬 Ask me about **Web Development, Databases, IT Support**
-
----
+### 🤖 AI & Emerging Technologies
 
 <div align="center">
 
-<b>Thanks for visiting my profile 🙏 Let's build something great together 🚀</b>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2c5364,50:203a43,100:0f2027&section=footer" alt="footer" />
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agents-Learning-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Exploring-0E75B6?style=for-the-badge" />
 
 </div>
+
+### 🐧 Operating Systems, Networking & Security
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali%20Linux-Security%20Learning-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
+</div>
+
+---
+
+## 🌍 Areas of Interest
+
+<div align="center">
+
+| Technology | Focus |
+|:---:|---|
+| 💻 | Software Engineering |
+| 🌐 | Full Stack Web Development |
+| 📱 | Mobile & Desktop Application Development |
+| 🤖 | Artificial Intelligence & Machine Learning |
+| 🧠 | AI Agents & Intelligent Automation |
+| 🗄️ | Database Engineering |
+| 🐧 | Linux & System Administration |
+| 🔐 | Cybersecurity & Networking |
+| ☁️ | Cloud Computing & DevOps |
+| 🛰️ | Satellites & Space Technology |
+| 🚁 | Drones & Robotics |
+| ⚡ | Arduino & Embedded Systems |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 School Management System
+
+A comprehensive school administration application built with C# and Microsoft SQL Server.
+
+**Features:**
+- Student Management
+- Teacher Management
+- Enrollment Management
+- Fee Payment Management
+- Database Integration
+
+**Technologies:** `C#` `SQL Server` `Visual Studio`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏍️ MotoGo Platform
+
+A modern motorcycle taxi platform with multiple user dashboards.
+
+**Features:**
+- Customer Dashboard
+- Driver Dashboard
+- Admin Dashboard
+- Responsive Interface
+- Modern UI & Animations
+
+**Technologies:** `HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Hussein's Portfolio
+
+A personal portfolio website with a Node.js and Express backend.
+
+**Features:**
+- Personal Profile
+- Project Showcase
+- Contact Form
+- Backend API
+- SQL Server Integration
+
+**Technologies:** `HTML` `CSS` `JavaScript` `Node.js` `Express` `SQL Server`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Customer Support
+
+An AI-powered customer support project focused on intelligent customer interactions.
+
+**Planned Features:**
+- Automated Responses
+- AI-Powered Assistance
+- Customer Conversations
+- Intelligent Support Workflow
+
+**Technologies:** `Python` `AI` `APIs`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/inamahamud693-code?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+<a href="https://github.com/inamahamud693-code?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore%20Projects-0e75b6?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/inamahamud693-code?tab=stars">
+<img src="https://img.shields.io/badge/Starred-Repositories-e3b341?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/inamahamud693-code?tab=following">
+<img src="https://img.shields.io/badge/Following-Explore-8957e5?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=inamahamud693-code&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inamahamud693-code&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=inamahamud693-code&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=inamahamud693-code&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=inamahamud693-code&bg_color=1a1b27&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=Hussein's%20Contribution%20Activity" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/inamahamud693-code/inamahamud693-code/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🎯 My Learning Roadmap & Goals
+
+<div align="center">
+
+| Goal | Status |
+|---|---|
+| Master JavaScript | 🔄 In Progress |
+| Learn Python | 🔄 In Progress |
+| Improve C# & .NET Development | 🔄 In Progress |
+| Build Full Stack Applications | 🔄 In Progress |
+| Master SQL & Database Engineering | 🔄 In Progress |
+| Develop AI-Powered Applications | 🎯 Upcoming |
+| Learn AI Agents & Automation | 🎯 Upcoming |
+| Master Linux Administration | 🎯 Upcoming |
+| Explore Cybersecurity | 🎯 Upcoming |
+| Learn Cloud & DevOps | 🎯 Upcoming |
+| Contribute to Open Source | 🎯 Future Goal |
+
+</div>
+
+---
+
+## 💡 My Developer Philosophy
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" />
+
+<br/><br/>
+
+**I believe that technology is not just about writing code.**
+
+**It's about solving problems, creating opportunities, and building a better future.**
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/inamahamud693-code">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://t.me/">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<a href="https://wa.me/">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+<a href="https://discord.com/">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🌟 Final Message
+
+<div align="center">
+
+### Thanks for visiting my GitHub Profile! ❤️
+
+**Explore my repositories, follow my journey, and let's build something amazing together.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Code-Learn-Build-38BDF8?style=for-the-badge" />
+
+<br/><br/>
+
+### 🚀 Keep Learning. Keep Building. Keep Innovating.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:2c5364,50:203a43,100:0f2027&section=footer" />
+
+</div>
+
+<!-- END OF HUSSEIN MOHAMUD PROFILE README --> 

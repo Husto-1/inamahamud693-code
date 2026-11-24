@@ -24,9 +24,6 @@ I'm **Hussein Mohamud**, an ICT student and software developer passionate about 
 - 🎓 Information & Communication Technology (ICT)
 - 💻 Software & Web Development
 - 🤖 Artificial Intelligence & AI Agents
-- 🗄️ Database Management
-- 🔐 Cybersecurity & Networking
-- 🐧 Linux & System Administration
 - 🚀 Always learning new technologies.
 
 > "Code. Learn. Build. Innovate."
